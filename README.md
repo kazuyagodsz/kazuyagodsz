@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&color=%23000000&size=30&center=true&vCenter=true&lines=MyhobbyProggrammers;I+live+in+Indonesia)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&color=%23000000&size=30&center=true&vCenter=true&lines=Wellcome+to+kazuyagodsz;MyhobbyProggrammers;I+live+in+Indonesia;sometimes+i+like+to+play+games;I+want+to+be+a+useful+person)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://github.com/kazuyagodsz?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kazuyagodsz"/></a>
