@@ -14,5 +14,8 @@
 <img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kazuyagodsz"></a>
 
 <p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=white"></a>
+<a href="https://github.com/kazuyagodsz/CODE-23-5-2-11-21"><img title="CODE-23-5-2-11-21" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=CODE-23-5-2-11-21&theme=white"></a>
+<a href="https://github.com/kazuyagodsz/CODE-23-5-2-11-21"><img title="CODE-23-5-2-11-21" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=CODE-23-5-2-11-21&theme=buefy"></a>
+<a href="https://github.com/kazuyagodsz/CODE-23-5-2-11-21"><img title="CODE-23-5-2-11-21" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=CODE-23-5-2-11-21&theme=graywhite"></a>
+
 </p>
