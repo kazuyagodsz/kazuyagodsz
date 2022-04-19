@@ -13,8 +13,6 @@
 
 <img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kazuyagodsz"></a>
 
-[![](https://chat.getloli.com/room/@kazuyagodsz.github/svg?width=600&height=280&limit=20&theme=light&title=kazuyagodsz@github:%20~&fontSize=10)](https://chat.getloli.com/room/@kazuyagodsz.github?title=chat%20room%20kazuyagodsz.id)
-
 <p align="center">
 <a href="https://github.com/kazuyagodsz/kazuyagodsz"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=white"></a>
 <a href="https://github.com/kazuyagodsz/kazuyagodsz"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=buefy"></a>
