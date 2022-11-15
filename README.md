@@ -14,8 +14,8 @@
 <img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kazuyagodsz"></a>
 
 <p align="center">
-<a href="https://github.com/kazuyagodsz/kazuyagodsz"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=white"></a>
-<a href="https://github.com/kazuyagodsz/kazuyagodsz"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=buefy"></a>
-<a href="https://github.com/kazuyagodsz/kazuyagodsz"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=graywhite"></a>
+<a href="https://github.com/kazuyagodsz/GamesStoreV1"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=white"></a>
+<a href="https://github.com/kazuyagodsz/NoFound"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=buefy"></a>
+<a href="https://github.com/kazuyagodsz/NoFound"><img title="kazuyagodsz" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=graywhite"></a>
 
 </p>
