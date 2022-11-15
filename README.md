@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://github.com/kazuyagodsz/GamesStoreV1"><img title="GamesStoreV1" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=GamesStoreV1&theme=white"></a>
-<a href="https://github.com/kazuyagodsz/NoFound"><img title="NoFound" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=buefy"></a>
-<a href="https://github.com/kazuyagodsz/NoFound"><img title="NoFound" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=kazuyagodsz&theme=graywhite"></a>
+<a href="https://github.com/kazuyagodsz/GamesStoreV2"><img title="GamesStoreV2" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=GamesStoreV2&theme=buefy"></a>
+<a href="https://github.com/kazuyagodsz/GamesStoreV3"><img title="GamesStoreV3" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyagodsz&repo=GamesStoreV3&theme=graywhite"></a>
 
 </p>
